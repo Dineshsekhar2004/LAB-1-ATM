@@ -13,6 +13,8 @@ to withdraw money,deposit.
 ![image](https://github.com/25tharunkumar/LAB-1-ATM/assets/123470785/1fd84e49-90e9-4b24-b664-975478f56489)
 ### STATE CHART DIAGRAM:
 ![image](https://github.com/25tharunkumar/LAB-1-ATM/assets/123470785/d96826aa-ccf2-4c52-aca7-6e3626f42c50)
+#STATECHART DIAGRAM:
+![image](https://github.com/Dineshsekhar2004/Library-Management/assets/119405916/5373d900-c6c9-4132-bb33-8f2b4e92c514)
 ### CLASS DIAGRAM:
 ![image](https://github.com/25tharunkumar/LAB-1-ATM/assets/123470785/af804fb3-5e74-4753-9503-a9330a0a7e9e)
 ### ACTIVITY DIAGRAM:
